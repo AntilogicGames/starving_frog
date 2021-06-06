@@ -1,4 +1,4 @@
-# juego01
+# Starving Frog [Vue.js]
 
 ## Project setup
 ```
